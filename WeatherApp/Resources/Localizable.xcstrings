@@ -1,0 +1,646 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Add an OpenWeather API key to Config/Secrets.xcconfig and rebuild.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agrega una clave de API de OpenWeather en Config/Secrets.xcconfig y vuelve a compilar."
+          }
+        }
+      }
+    },
+    "Check your internet connection and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisa tu conexión a internet e inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Check Your Search": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisa tu búsqueda"
+          }
+        }
+      }
+    },
+    "City names can only contain letters, spaces, periods, apostrophes and hyphens.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los nombres de ciudades solo pueden tener letras, espacios, puntos, apóstrofos y guiones."
+          }
+        }
+      }
+    },
+    "City Not Found": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ciudad no encontrada"
+          }
+        }
+      }
+    },
+    "City, State (e.g. Austin, TX)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ciudad, estado (p. ej. Austin, TX)"
+          }
+        }
+      }
+    },
+    "Cloud Cover": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nubosidad"
+          }
+        }
+      }
+    },
+    "Conditions": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Condiciones"
+          }
+        }
+      }
+    },
+    "Conditions unavailable": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Condiciones no disponibles"
+          }
+        }
+      }
+    },
+    "Couldn't Find Your Location": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo obtener tu ubicación"
+          }
+        }
+      }
+    },
+    "Current Location": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ubicación actual"
+          }
+        }
+      }
+    },
+    "E": {
+      "comment": "Compass direction: east",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E"
+          }
+        }
+      }
+    },
+    "Enter a city name.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escribe el nombre de una ciudad."
+          }
+        }
+      }
+    },
+    "Enter a US city like “Austin, TX”, or tap the location button to use where you are.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escribe una ciudad de EE. UU. como “Austin, TX”, o toca el botón de ubicación para usar donde estás."
+          }
+        }
+      }
+    },
+    "Feels Like": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sensación térmica"
+          }
+        }
+      }
+    },
+    "H: %@  L: %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máx.: %1$@  Mín.: %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "H: %1$@  L: %2$@"
+          }
+        }
+      }
+    },
+    "High %@, low %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Máxima %1$@, mínima %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "High %1$@, low %2$@"
+          }
+        }
+      }
+    },
+    "Humidity": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Humedad"
+          }
+        }
+      }
+    },
+    "Loading weather…": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cargando el clima…"
+          }
+        }
+      }
+    },
+    "Location Access Is Off": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El acceso a la ubicación está desactivado"
+          }
+        }
+      }
+    },
+    "Location access is off.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El acceso a la ubicación está desactivado."
+          }
+        }
+      }
+    },
+    "Make sure Location Services are on and try again, or search for a city.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Asegúrate de que la Localización esté activada e inténtalo de nuevo, o busca una ciudad."
+          }
+        }
+      }
+    },
+    "More Details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más detalles"
+          }
+        }
+      }
+    },
+    "N": {
+      "comment": "Compass direction: north",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "N"
+          }
+        }
+      }
+    },
+    "NE": {
+      "comment": "Compass direction: northeast",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NE"
+          }
+        }
+      }
+    },
+    "Not Now": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ahora no"
+          }
+        }
+      }
+    },
+    "NW": {
+      "comment": "Compass direction: northwest",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NO"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes"
+          }
+        }
+      }
+    },
+    "Precipitation (1h)": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precipitación (1 h)"
+          }
+        }
+      }
+    },
+    "Pressure": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presión"
+          }
+        }
+      }
+    },
+    "Request Timed Out": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se agotó el tiempo de espera"
+          }
+        }
+      }
+    },
+    "S": {
+      "comment": "Compass direction: south",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S"
+          }
+        }
+      }
+    },
+    "SE": {
+      "comment": "Compass direction: southeast",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SE"
+          }
+        }
+      }
+    },
+    "Search for a City": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Busca una ciudad"
+          }
+        }
+      }
+    },
+    "Search with just a city, or a city and state, like “Austin, TX”.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Busca solo una ciudad, o una ciudad y un estado, como “Austin, TX”."
+          }
+        }
+      }
+    },
+    "Something Went Wrong": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algo salió mal"
+          }
+        }
+      }
+    },
+    "Sun": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sol"
+          }
+        }
+      }
+    },
+    "Sunrise": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amanecer"
+          }
+        }
+      }
+    },
+    "Sunset": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atardecer"
+          }
+        }
+      }
+    },
+    "SW": {
+      "comment": "Compass direction: southwest",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SO"
+          }
+        }
+      }
+    },
+    "That search is too long. Try just the city and state.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La búsqueda es demasiado larga. Prueba solo con la ciudad y el estado."
+          }
+        }
+      }
+    },
+    "The API key was rejected. New OpenWeather keys can take a couple of hours to activate.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se rechazó la clave de API. Las claves nuevas de OpenWeather pueden tardar un par de horas en activarse."
+          }
+        }
+      }
+    },
+    "The connection is slow right now. Try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La conexión está lenta. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "The weather service is having trouble right now. Try again shortly.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El servicio del clima tiene problemas en este momento. Inténtalo en un rato."
+          }
+        }
+      }
+    },
+    "To see the weather where you are, allow location access for this app in Settings.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Para ver el clima donde estás, permite el acceso a la ubicación para esta app en Ajustes."
+          }
+        }
+      }
+    },
+    "Too Many Requests": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demasiadas solicitudes"
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reintentar"
+          }
+        }
+      }
+    },
+    "Turn on location access in Settings, or search for a city instead.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activa el acceso a la ubicación en Ajustes, o busca una ciudad."
+          }
+        }
+      }
+    },
+    "Updated %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actualizado %@"
+          }
+        }
+      }
+    },
+    "Use Current Location": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usar ubicación actual"
+          }
+        }
+      }
+    },
+    "Visibility": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Visibilidad"
+          }
+        }
+      }
+    },
+    "W": {
+      "comment": "Compass direction: west",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O"
+          }
+        }
+      }
+    },
+    "Wait a minute and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Espera un minuto e inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "We couldn't find that city in the US. Check the spelling or add a state, like “Portland, OR”.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No encontramos esa ciudad en EE. UU. Revisa cómo está escrita o agrega un estado, como “Portland, OR”."
+          }
+        }
+      }
+    },
+    "We couldn't load the weather. Try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos cargar el clima. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Weather": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clima"
+          }
+        }
+      }
+    },
+    "Weather Service Not Set Up": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Servicio del clima sin configurar"
+          }
+        }
+      }
+    },
+    "Weather Service Unavailable": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Servicio del clima no disponible"
+          }
+        }
+      }
+    },
+    "Wind": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Viento"
+          }
+        }
+      }
+    },
+    "Wind & Pressure": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Viento y presión"
+          }
+        }
+      }
+    },
+    "You're Offline": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin conexión"
+          }
+        }
+      }
+    },
+    "“%@” isn't a US state. Try something like “Austin, TX”.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@” no es un estado de EE. UU. Prueba algo como “Austin, TX”."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

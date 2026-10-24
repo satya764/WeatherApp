@@ -1,0 +1,11 @@
+// Shared build settings for every target.
+//
+// The API key lives in Secrets.xcconfig, which is git-ignored. Copy
+// Secrets.example.xcconfig to Secrets.xcconfig and paste your key in.
+// `#include?` is optional, so a fresh clone still builds; the app then shows a
+// "Weather Service Not Set Up" message instead of crashing.
+
+OPENWEATHER_API_KEY =
+BUNDLE_ID_PREFIX = com.example
+
+#include? "Secrets.xcconfig"
