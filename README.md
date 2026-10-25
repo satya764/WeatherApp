@@ -2,7 +2,7 @@
 
 iOS take-home: look up current weather for a US city using the OpenWeather API.
 
-UIKit + SwiftUI, MVVM-C, no storyboards, no third-party dependencies. iOS 17+, built with Xcode 16.
+UIKit + SwiftUI, MVVM-C, no storyboards, no third-party dependencies. iOS 17+, Xcode 16 or newer.
 
 ## Running it
 
@@ -10,6 +10,8 @@ UIKit + SwiftUI, MVVM-C, no storyboards, no third-party dependencies. iOS 17+, b
    (new keys can take an hour or two before they start working)
 2. `cp Config/Secrets.example.xcconfig Config/Secrets.xcconfig` and paste the key in
 3. Open `WeatherApp.xcodeproj`, pick a simulator, run
+4. On the simulator, set a location first (Features → Location, or Debug → Simulate Location in Xcode),
+   otherwise the app shows "Couldn't Find Your Location". You can always search a city instead.
 
 `Secrets.xcconfig` is git-ignored. Without it the app still builds and tells you the key is missing.
 You can also set `OPENWEATHER_API_KEY` as an environment variable on the scheme.
@@ -18,8 +20,10 @@ Tests: `⌘U`, or
 
 ```
 xcodebuild test -project WeatherApp.xcodeproj -scheme WeatherApp \
-  -destination 'platform=iOS Simulator,name=iPhone 16'
+ -destination 'platform=iOS Simulator,name=iPhone 16'
 ```
+
+Swap `iPhone 16` for any simulator you have installed.
 
 Neither test target needs an API key or network. UI tests run against stubbed services.
 

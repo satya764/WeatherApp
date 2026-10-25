@@ -20,6 +20,9 @@ struct WeatherContentView: View {
                     }
                 }
                 .scrollDismissesKeyboard(.immediately)
+                // iOS 26+ floats the search bar at the bottom over content. Leave room so
+                // the last row can scroll clear of it (mostly matters in landscape).
+                .contentMargins(.bottom, 88, for: .scrollContent)
             case .failed(let error):
                 ErrorStateView(
                     error: error,
