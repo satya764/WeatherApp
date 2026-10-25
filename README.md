@@ -3,6 +3,13 @@
 iOS take-home: look up current weather for a US city using the OpenWeather API.
 
 UIKit + SwiftUI, MVVM-C, no storyboards, no third-party dependencies. iOS 17+, Xcode 16 or newer.
+   ## Screenshots
+
+   | Search | Details | Error |
+   |---|---|---|
+   | <img src="docs/main.png" width="250"> | <img src="docs/details.png" width="250"> | <img src="docs/error.png" width="250"> |
+
+   <img src="docs/landscape.png" width="600">
 
 ## Running it
 
